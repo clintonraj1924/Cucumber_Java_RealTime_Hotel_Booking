@@ -50,14 +50,14 @@
 			<version>2.13.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.sun/tools -->
-		<!--		<dependency>-->
-		<!--			<groupId>com.sun</groupId>-->
-		<!--			<artifactId>tools</artifactId>-->
-		<!--			<version>1.7</version>-->
-		<!--			<scope>system</scope>-->
-		<!--			<systemPath>C:\Program-->
-		<!--				Files\Java\jdk-20\lib\tools.jar</systemPath>-->
-		<!--		</dependency>-->
+<!--		<dependency>-->
+<!--			<groupId>com.sun</groupId>-->
+<!--			<artifactId>tools</artifactId>-->
+<!--			<version>1.7</version>-->
+<!--			<scope>system</scope>-->
+<!--			<systemPath>C:\Program-->
+<!--				Files\Java\jdk-20\lib\tools.jar</systemPath>-->
+<!--		</dependency>-->
 		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-core -->
 		<dependency>
 			<groupId>io.cucumber</groupId>
@@ -134,11 +134,7 @@
 			<version>5.1.0</version>
 		</dependency>
 
-		<dependency>
-			<groupId>internetBankingProject1.0v</groupId>
-			<artifactId>internetBankingProject1.0v</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 	<build>
 		<finalName>my-sipapp</finalName>
