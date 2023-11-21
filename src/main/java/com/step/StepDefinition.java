@@ -2,6 +2,7 @@ package com.step;
 
 import java.util.concurrent.TimeUnit;
 
+
 import com.pojo.BaseClass;
 import com.pojo.Booking;
 import com.pojo.Cancellation;
@@ -9,9 +10,13 @@ import com.pojo.Login;
 import com.pojo.Search;
 import com.pojo.Select;
 
-import cucumber.api.java.en.Given;
-import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
+//import cucumber.api.java.en.Given;
+//import cucumber.api.java.en.Then;
+//import cucumber.api.java.en.When;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
 
 public class StepDefinition extends BaseClass {
 	
